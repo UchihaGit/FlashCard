@@ -1,0 +1,10 @@
+.question-card{
+  display: none;
+}
+
+.question-session-container{
+  width: 30%;
+  background-color: grey;
+  float: left;
+  margin-left: 20px;
+}
